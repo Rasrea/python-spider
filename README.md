@@ -7,7 +7,7 @@
 
 ## 全球天气预报（近七天） <br>
 ### 基本功能：爬取天气网中的数据，并进行可视化分析。运行sources文件中的begin.py，输入你要的城市名称（中文）就会生成对应的图像。 <br>
-详细讲解请参考CSDN文章：https://mp.csdn.net/mp_blog/creation/editor/136590761 <br>
+详细讲解请参考CSDN文章：https://blog.csdn.net/m0_74048576/article/details/136590761 <br>
 
 ## 豆瓣 <br>
 ### 基本功能：使用Beautiful Soup爬取豆瓣Top250读书、电影及科幻电影的相关信息，还有使用正则的例子。 <br>
