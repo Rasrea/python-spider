@@ -6,7 +6,7 @@
 详细讲解请参考CSDN文章：https://blog.csdn.net/m0_74048576/article/details/136279937 <br>
 
 ## 全球天气预报（近七天） <br>
-### 基本功能：爬取天气网中的数据，并进行可视化分析。运行sources文件中的begin.py，输入你要的城市名称（中文）就会生成对应的图像。 <br>
+### 基本功能：爬取天气网中的数据，并进行可视化分析。运行sources文件中的begin.py，输入城市名称（中文）就会生成对应的图像。改进版将地点精确到乡镇 <br>
 详细讲解请参考CSDN文章：https://blog.csdn.net/m0_74048576/article/details/136590761 <br>
 
 ## 豆瓣 <br>
