@@ -4,14 +4,7 @@ import pandas as pd
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 '
                   'Safari/537.36 Edg/120.0.0.0',
-    'Cookie': 'SUB=_2AkMSKJlSf8NxqwFRmfoXy2jka41zzgHEieKkdGiJJRMxHRl-yT9vqlU5tRB6Oai3vlM-tNtuokqqydEe_qjOt3Hd78HB; '
-              'SUBP=0033WrSXqPxfM72-Ws9jqgMF55529P9D9WW2FbZDRBZAlus.3VZVylxc; '
-              'SINAGLOBAL=1593182467560.3235.1702106731121; XSRF-TOKEN=3IZY79X3XJnODFFA0aLIvFDl; '
-              'WBPSESS=V0zdZ7jH8_6F0CA8c_ussX7v09Fe0lbDA-4S4-hZWYaHjife81Zh1U4ShoquMcDESVCJ6-exMCjCRMlbY2NOecLSo'
-              '--AoT_osGI26YnnzrhVlffs3QdTFSt6RzFhGijjk8CtLJ_PWcaD2IRO1XSpicfQTK2ki0tHm5AJRNjPhwU=; '
-              '_s_tentry=weibo.com; Apache=6502686030357.5625.1703596053330; '
-              'ULV=1703596053358:3:3:2:6502686030357.5625.1703596053330:1703514491831; PC_TOKEN=1cc8d43f83; '
-              'login_sid_t=1a3f5d027c7e947acea83759b8a0a3ff; cross_origin_proto=SSL; UOR=,,cn.bing.com'
+    'Cookie': ''
 }
 
 url_lst = {
